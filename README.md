@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Reeju
 
-<!--
-**ujeer/ujeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **developing my full stack development skills**
+- 
+- 📫 How to reach me: [reejuchhetri04@gmail.com](mailto:reejuchhetri04@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reeju-pandit-b164112b6/)
+
+
+### 📊 GitHub Stats:
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Reeju&theme=radical&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+
+
+
+
+
