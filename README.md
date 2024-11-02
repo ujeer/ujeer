@@ -3,7 +3,7 @@
 ---
 
 - 🔭 I’m currently working on **developing my full stack development skills**
-- 
+  
 - 📫 How to reach me: [reejuchhetri04@gmail.com](mailto:reejuchhetri04@gmail.com)
 
 ## Connect with me:
