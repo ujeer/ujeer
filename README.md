@@ -9,7 +9,7 @@
 ## Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reeju-pandit-b164112b6/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/r_ee_ju/)
 
 ### 📊 GitHub Stats:
 
