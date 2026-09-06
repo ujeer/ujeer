@@ -2,7 +2,8 @@
 
 🎓 B.Sc. CSIT Student at Madan Bhandari Memorial College
 
-🌱 Currently learning JavaScript, PHP, Django, and Full-Stack Development
+🌱 Currently learning JavaScript, PHP, Django, and Networking.
+
 
 🚀 Passionate about building projects, participating in hackathons, and exploring new technologies
 
